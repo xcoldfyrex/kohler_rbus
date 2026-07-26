@@ -1,7 +1,7 @@
 # Kohler RBUS Protocol — Reverse Engineering Notes
 
 This is my attempt at reverse engineering the Kohler RBUS protocol for integration into my own smarthome software and 
-avoid purchasing the propriety hardware that requires cloud access. I am publishing this in hopes other folks are able to expand on this and fill
+avoid purchasing the proprietary hardware that requires cloud access. I am publishing this in hopes other folks are able to expand on this and fill
 in any gaps. See capture.gz for a sample capture.
 
 **Everything below this line is AI generated**
